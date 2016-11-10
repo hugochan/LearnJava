@@ -1,3 +1,5 @@
+package virtual_demo;
+
 /* File name : Employee.java */
 public class MyEmployee {
    private String name;

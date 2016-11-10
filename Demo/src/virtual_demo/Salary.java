@@ -1,3 +1,5 @@
+package virtual_demo;
+
 /* File name : Salary.java */
 public class Salary extends MyEmployee {
    private double salary; // Annual salary

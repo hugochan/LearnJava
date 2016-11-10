@@ -1,3 +1,5 @@
+package virtual_demo;
+
 /* File name : VirtualDemo.java */
 public class VirtualDemo {
 
